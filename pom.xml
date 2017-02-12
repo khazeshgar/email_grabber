@@ -2,17 +2,17 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>ir.khazeshgar.email</groupId>
-    <artifactId>email_grabbrr</artifactId>
+    <artifactId>email_grabber</artifactId>
     <packaging>jar</packaging>
     <version>2.1</version>
     <name>email_grabber</name>
-    <url>http://kohsuke.org/</url>
+    <url>http://khazeshgar.ir</url>
     <description>${project.name}</description>
 
     <scm>
-        <connection>scm:git:git@github.com/kohsuke/${project.artifactId}.git</connection>
-        <developerConnection>scm:git:ssh://git@github.com/kohsuke/${project.artifactId}.git</developerConnection>
-        <url>http://${project.artifactId}.kohsuke.org/</url>
+        <connection>scm:git:git@github.com/khazeshgar/${project.artifactId}.git</connection>
+        <developerConnection>scm:git:ssh://git@github.com/khazeshgar/${project.artifactId}.git</developerConnection>
+        <url>http://khazeshgar.ir/</url>
         <tag>HEAD</tag>
     </scm>
     <developers>

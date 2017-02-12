@@ -4,7 +4,7 @@ package ir.khazehsgar.email;
 public class grabber{
     OkHttpClient client = new OkHttpClient();
 
-    String run(String url) throws IOException {
+    public String getTextOfUrl(String url) throws IOException {
         Request request = new Request.Builder()
                 .url(url)
                 .build();
