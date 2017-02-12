@@ -1,2 +1,2 @@
 # email_grabber
-Grab website emails!
+Crawl for grab website emails!
