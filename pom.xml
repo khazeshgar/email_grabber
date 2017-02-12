@@ -35,7 +35,7 @@
         </dependency>
     </dependencies>
     <build>
-        <finalName>email_graber.jar</finalName>
+        <finalName>email_graber</finalName>
 
     </build>
     <licenses>
