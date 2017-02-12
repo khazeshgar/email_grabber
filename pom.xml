@@ -29,6 +29,11 @@
 
     <dependencies>
         <dependency>
+            <groupId>ir.khazeshgar.util</groupId>
+            <artifactId>fast_file_io</artifactId>
+            <version>1.1</version>
+        </dependency>
+        <dependency>
             <groupId>com.squareup.okhttp3</groupId>
             <artifactId>okhttp</artifactId>
             <version>3.6.0</version>

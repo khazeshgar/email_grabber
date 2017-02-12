@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="fast_file_io">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../fast-file-io/target/fast_file_io.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
