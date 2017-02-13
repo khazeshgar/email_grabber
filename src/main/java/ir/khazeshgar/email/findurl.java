@@ -4,7 +4,9 @@ import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import java.util.List;
 /**
+ *
  * Created by mghasemy on 2/13/17.
+ * This class for find another url if it not work!
  */
 public class findurl {
     public String geturl(String u){
